@@ -1,1 +1,3 @@
-# hyeonji0.github.io
+* 2024-1학기 웹화면구현 기말 프로젝트 
+
+> 참고 사이트: https://thebook.io/080313/0673/
